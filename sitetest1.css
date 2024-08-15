@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(206, 23, 23);
+    color: bisque;
+    font-size: small;
+    font-style: italic;
+}
+footer{
+    background-color: blanchedalmond;
+    color: rgb(122, 6, 6);
+    font-weight: bold;
+}
+article{
+    background-color: aquamarine;
+    color: black;
+    height: auto;
+    width: 100px;
+    border-radius: 50px;
+}
+img{
+    width: ;
+}
